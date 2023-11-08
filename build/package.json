@@ -1,0 +1,14 @@
+{
+  "name": "Chester",
+  "version": "1.0.0",
+  "description": "Chester",
+  "repository": "mlmed/chester-xray",
+  "main": "app.js",
+  "scripts": {
+    "start": "electron app.js"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^9.1.3"
+  }
+}
